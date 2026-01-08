@@ -9,5 +9,12 @@ print(True)
 print(False)
 print("Python")
 
-help()
-help(100)
+age = 33
+
+name = 'Pedro'
+
+print(f'Meu nome é {name} e eu tenho {age} ano(s) de idadde.')
+
+age, name = (33, 'Pedro')
+
+print(f'Meu nome é {name} e eu tenho {age} ano(s) de idadde.')
