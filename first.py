@@ -25,3 +25,15 @@ print(type(valor_str))
 
 print(100 / 2)
 print(100 // 2)
+
+#funções de entrada e saída
+
+nome = input("Informe o seu nome: ")
+idade = input("Informe a sua idade: ")
+
+print(nome, idade)
+print("teste", end=" ")
+print(nome, idade, end="...\n")
+print(nome, idade, sep="#")
+
+print(5 // 2)
