@@ -11,3 +11,23 @@ print(12 // 4)
 print( 10 % 3)
 
 print(2 ** 3)
+
+print(10 - 5 *2)
+
+print((10 - 5) * 2)
+
+print(10 ** 2 * 2)
+
+print(10 ** (2 * 2))
+
+print(10 / 2 * 4)
+
+produto_1 = 10
+produto_2 = 20
+
+print(produto_1 + produto_2)
+print(produto_1 - produto_2)
+print(produto_1 * produto_2)
+print(produto_1 ** produto_2)
+print(produto_1 / produto_2)
+print(produto_1 // produto_2)
