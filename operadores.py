@@ -44,3 +44,14 @@ print(z)
 
 a = (10 / 2) + (25 + 2) - (100 ** 2)
 print(a)
+
+#comparação
+
+#igualdade
+
+saldo = 450
+saque = 200
+
+print(saldo == saque)
+print(saldo > saque)
+print(saldo >= saque)
