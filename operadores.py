@@ -158,3 +158,6 @@ saques = [1500, 100]
 "maçã" not in frutas
 
 200 in saques
+
+x = (22 - 10)* 3
+print(x)
