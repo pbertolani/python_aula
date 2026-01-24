@@ -138,3 +138,23 @@ curso is nome_curso
 curso is not nome_curso
 
 saldo is limite
+
+####
+
+saldo = 1000
+limite = 500
+
+print(saldo is limite)
+print(saldo is not limite)
+
+#Associação
+
+curso = "Curso de Python"
+frutas = ["laranja", "uva", "limão"]
+saques = [1500, 100]
+
+"Python" in curso
+
+"maçã" not in frutas
+
+200 in saques
