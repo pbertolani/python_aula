@@ -125,3 +125,16 @@ conta_especial = True
 saldo >= saque and saque <= limite or conta_especial and saldo >= saque
 
 (saldo >= saque and saque <= limite) or (conta_especial and saldo >= saque)
+
+#identidade
+
+curso = "Curso de Python"
+
+nome_curso = curso
+saldo, limite = 200, 200
+
+curso is nome_curso
+
+curso is not nome_curso
+
+saldo is limite
