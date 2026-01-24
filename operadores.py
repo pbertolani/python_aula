@@ -88,3 +88,17 @@ print(saldo)
 
 saldo **= 2
 print(saldo)
+
+#lógicos
+
+saldo = 1000
+saque = 200
+limite = 100
+
+saldo >= saque
+
+saque <= limite
+
+saldo >= saque and saque <= limite
+
+saldo >= saque or saque <= limite
