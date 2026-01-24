@@ -53,5 +53,23 @@ saldo = 450
 saque = 200
 
 print(saldo == saque)
+
 print(saldo > saque)
 print(saldo >= saque)
+
+print(saldo < saque)
+print(saldo <= saque)
+
+#atribuição
+
+saldo = 500
+print(saldo)
+
+saldo = 200
+print(saldo)
+
+saldo += 200
+saldo -= 200
+saldo /= 200
+saldo //= 200
+saldo *= 200
