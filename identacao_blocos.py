@@ -7,4 +7,10 @@ def sacar(valor: float):
 
     print("Obrigado por ser nosso cliente, tenha um bom dia!")
 
+
+
+def depositar(valor):
+    saldo = 500
+    saldo += valor
+
 sacar(100)
